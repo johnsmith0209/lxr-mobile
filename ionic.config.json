@@ -1,0 +1,7 @@
+{
+  "name": "lxr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
