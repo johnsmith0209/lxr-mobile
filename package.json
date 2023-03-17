@@ -58,10 +58,10 @@
   },
   "description": "An Ionic project",
   "workspaces": [
-    "../modules/wf-shared",
-    "../modules/wf-db",
-    "../modules/wf-be-common",
-    "../modules/wf-fs",
-    "../modules/wf-apis"
+    "./wf-shared",
+    "./wf-db",
+    "./wf-be-common",
+    "./wf-fs",
+    "./wf-apis"
   ]
 }
