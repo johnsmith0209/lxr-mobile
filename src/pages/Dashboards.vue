@@ -94,7 +94,7 @@ import {
 import TablePinned from '@/components/TablePinned.vue';
 import Chart from 'chart.js/auto';
 
-const list = ref(_.times(10).map(row => ({
+const list = ref(_.times(13).map(row => ({
     id: `row ${row}`,
     col1: `${row}: 1`.repeat(2),
     col2: `${row}: 2`.repeat(2),
